@@ -3,7 +3,8 @@ title: "R-Ladies Melbourne Surveys 2017"
 author: "R-Ladies Melburne"
 date: "22/08/2017"
 output:
-  github_document
+  github_document:
+      toc: true
 ---
 
 # Biannual Survey July 2017
