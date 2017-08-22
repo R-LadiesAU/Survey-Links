@@ -11,5 +11,4 @@ output:
 
 Please fill our [biannual survey](https://goo.gl/forms/docYS14Fr7xRipHW2) to help us improve our next events!
 
-# Event survey: Combine Large Scale Datasets 2017-08-22
 
